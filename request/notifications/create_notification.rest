@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notificaciones 
+Content-Type: application/json
+
+{
+    "usuarioId":12,
+    "descripcion":"ooootra noti"
+}
